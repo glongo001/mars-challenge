@@ -20,12 +20,21 @@ I used my knowledge of web-scraping and data analysis to obtain news titles and 
     3. What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
         * Find the average the minimum daily temperature for all of the months.
         * Plot the results as a bar chart.
+
+        ![alt text](https://github.com/glongo001/mars-challenge/blob/main/Starter_Code/avg_min_temp.png)
+
         - The coldest average minimum temperature is in month 3, and the hottest average minimum temperature is in month 8.
     4. Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
         * Find the average the daily atmospheric pressure of all the months.
         * Plot the results as a bar chart.
+
+        ![alt text](https://github.com/glongo001/mars-challenge/blob/main/Starter_Code/avg_pressure.png)
+        
         - Month 6 has the lowest average pressure, month 9 has the highest average pressure.
     5. About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
         * Consider how many days elapse on Earth in the time that Mars circles the Sun once.
         * Visually estimate the result by plotting the daily minimum temperature.
+
+        ![alt text](https://github.com/glongo001/mars-challenge/blob/main/Starter_Code/min_temp_day_count.png)
+        
         - In my graph there is a peak around days 690-740 and the next peak takes place at 1375-1425. Therefore, on Martian year is about 685 terrestial days in the graph.
