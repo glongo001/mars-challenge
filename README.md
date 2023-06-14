@@ -1,4 +1,4 @@
-# Unit 11 Homework: Mission to Mars
+# Mission to Mars
 I used my knowledge of web-scraping and data analysis to obtain news titles and preview text from a website, and obtain data from a website and analyze it.
 ## Part 1: Scrape Titles and Preview Text from Mars News
 1. I used Splinter to open Google Chrome and visit https://static.bc-edx.com/data/web/mars_news/index.html .
